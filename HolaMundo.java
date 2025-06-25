@@ -8,9 +8,11 @@ public class HolaMundo {
         System.out.println("La suma de " + a + " + " + b + " es: " + suma);
 
         System.out.println("Nombre: Julio Arróliga | Carnet: 2025-1930U");
-        System.out.println("Saludos al profesor");
-        
-    }
 
-    
+        System.out.println("Buenos Dias, Querido Profesor");
+        
+        
+        
+
+    }
  }

@@ -6,6 +6,8 @@ public class HolaMundo {
         int suma = a + b;
         System.out.println("Hola, " + nombre + "!");
         System.out.println("La suma de " + a + " + " + b + " es: " + suma);
+
+        System.out.println("Nombre: Julio Arróliga | Carnet: 2025-1930U");
     }
 
     
